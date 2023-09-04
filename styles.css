@@ -1,0 +1,38 @@
+body {
+    font-family: Times new roman, sans-serif;
+    margin: 15px;
+    background-color:light grey;
+    
+}
+
+h1, h2 {
+    text-align: center;
+    color:blue;
+}
+
+#available-rooms, #booking-form, #user-bookings {
+    margin: 15px;
+    padding: 15px;
+    border: 0.5px solid;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: yellow;
+    color: red;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
